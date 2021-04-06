@@ -6,7 +6,7 @@
 
 body{
     overflow: hidden;
-    background: rgb(77, 75, 75);
+    background: url(https://picsum.photos/1200/1200) no-repeat 100%/cover;
 }
 
 #quote{
